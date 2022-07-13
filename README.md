@@ -30,8 +30,11 @@ Upcoming Capability
 
 Use of the program:
 
-Copy "verify" to the Variscite SoM running the Yocto Dunfell recovery SD card.
+Copy "verify" to the Variscite SoM running the Yocto Dunfell recovery SD card. (ref 1)
 
 Execute "chmod +x verify".
 
 Execute "./verify"
+
+
+Ref 1: https://variwiki.com/index.php?title=Yocto_Recovery_SD_card&release=RELEASE_DUNFELL_V1.8_VAR-SOM-MX8M-NANO

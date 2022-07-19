@@ -13,17 +13,17 @@ gpioset gpiochip1 13=1
 sleep 1
 gpioset gpiochip1 13=0
 
-gpioset gpiochip5 10=1
+gpioset gpiochip4 10=1
 sleep 1
-gpioset gpiochip5 10=0
+gpioset gpiochip4 10=0
 
-gpioset gpiochip5 12=1
+gpioset gpiochip4 12=1
 sleep 1
-gpioset gpiochip5 12=0
+gpioset gpiochip4 12=0
 
-gpioset gpiochip5 13=1
+gpioset gpiochip4 13=1
 sleep 1
-gpioset gpiochip5 13=0
+gpioset gpiochip4 13=0
 
 # SPI
 # Due next week
